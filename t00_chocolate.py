@@ -1,6 +1,6 @@
 ######################################################################
-# Author: Shawn Villahermosa and Alex Meadors           ****** TODO: CHANGE THIS!! ******
-# username: villahermosa and meadors             ****** TODO: CHANGE THIS!! *****
+# Author: Shawn Villahermosa and Alex Meadors
+# username: villahermosa and meadors
 #
 # Purpose: Designed to compute the total chocolate desired by the user
 #
